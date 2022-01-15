@@ -7,6 +7,7 @@ public class Test {
 		Employee employee = new Employee();
 		employee.setId("2");
 		System.out.println("Hello World");
+		System.out.println("employee"+employee.getId());
 
 	}
 
